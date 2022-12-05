@@ -4,7 +4,7 @@ Programs used :
 
 Screenshot : 
 
-file:///home/usayanjit/Pictures/Screenshots/Screenshot_2022-12-05-18-48-20_1920x1080.png
+https://raw.github.com/{sayanjit082805}/{config}/{main}/{i3/wallhaven-m3p559.png}
 
 Polybar theme is from this awesome repository : https://github.com/adi1090x/polybar-themes
 
