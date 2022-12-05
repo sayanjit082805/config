@@ -1,0 +1,33 @@
+{
+    "name": "Tempus Night",
+    "comment": "High contrast dark theme with bright colours (WCAG AAA compliant)",
+    "foreground-color": "#e0e0e0",
+    "background-color": "#1a1a1a",
+    "use-theme-colors": false,
+    "use-highlight-color": false,
+    "highlight-foreground-color": "#1a1a1a",
+    "highlight-background-color": "#e0e0e0",
+    "use-cursor-color": false,
+    "cursor-foreground-color": "#1a1a1a",
+    "cursor-background-color": "#e0e0e0",
+    "use-badge-color": true,
+    "badge-color": "#c4bdaf",
+    "palette": [
+        "#1a1a1a",
+        "#ff929f",
+        "#5fc940",
+        "#c5b300",
+        "#5fb8ff",
+        "#ef91df",
+        "#1dc5c3",
+        "#c4bdaf",
+        "#242536",
+        "#f69d6a",
+        "#88c400",
+        "#d7ae00",
+        "#8cb4f0",
+        "#de99f0",
+        "#00ca9a",
+        "#e0e0e0"
+    ]
+}
